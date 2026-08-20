@@ -31,6 +31,10 @@ python demo_ODES.py --cfg cfgs/example_config.yaml
 
 Edit your YAML config to match your dataset path and parameters.
 
+## Acknowledgment
+
+This work was supported by the U.S. National Science Foundation under
+grants OAC-2411453 and DMS-2029814.
 
 
 ## 🧪 Citation
