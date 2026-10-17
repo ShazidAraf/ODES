@@ -1,6 +1,6 @@
 # ODES: Online Domain Adaptation with Expert Guidance for Medical Image Segmentation
 
-[Paper](https://papers.miccai.org/miccai-2025/paper/5017_paper.pdf) | [Project page](https://shazidaraf.github.io/ODES/)
+[Paper](https://papers.miccai.org/miccai-2025/paper/5017_paper.pdf) | [Project page](https://shazidaraf.github.io/projects/odes/)
 
 
 Code for **ODES**, accepted in MICCAI 2025 (Medical Image Computing and Computer-Assisted Intervention), Daejeon, South Korea. (under construction)
