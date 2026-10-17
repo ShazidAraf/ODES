@@ -1,9 +1,20 @@
-# ODES: Online Domain Adaptation with Expert Guidance for Medical Image Segmentation
+<div align="center">
 
-[Paper](https://papers.miccai.org/miccai-2025/paper/5017_paper.pdf) | [Project page](https://shazidaraf.github.io/projects/odes/)
+# ODES
 
+### Online Domain Adaptation with Expert Guidance for Medical Image Segmentation
 
-Code for **ODES**, accepted in MICCAI 2025 (Medical Image Computing and Computer-Assisted Intervention), Daejeon, South Korea. (under construction)
+**MICCAI 2025** (Daejeon, South Korea)
+
+Md Shazid Islam, Sayak Nag, Arindam Dutta, Sk Miraj Ahmed, Fahim Faisal Niloy, Shreyangshu Bera, Amit K. Roy-Chowdhury
+
+University of California, Riverside
+
+[**Project page**](https://shazidaraf.github.io/projects/odes/) &nbsp;|&nbsp; [**Paper**](https://papers.miccai.org/miccai-2025/paper/5017_paper.pdf) &nbsp;|&nbsp; [**Citation**](#-citation)
+
+<img src="https://shazidaraf.github.io/projects/odes/assets/overview.gif" width="720" alt="ODES overview">
+
+</div>
 
 ODES is a novel framework for **online domain adaptation** in medical image segmentation that combines active learning, image pruning, and diversity-guided annotation to adapt pre-trained models to distribution shifts in real-time.
 
@@ -43,7 +54,7 @@ If you find this work useful, please cite:
 
 ```
 @inproceedings{islam2025odes,
-  title={ODES: Domain Adaptation with Expert Guidance for Online Medical Image Segmentation},
+  title={ODES: Online Domain Adaptation with Expert Guidance for Medical Image Segmentation},
   author={Md Shazid Islam and Sayak Nag and Arindam Dutta and Sk Miraj Ahmed and Fahim Faisal Niloy and Shreyangshu Bera and Amit K. Roy-Chowdhury},
   booktitle={MICCAI},
   year={2025}
